@@ -30,7 +30,7 @@
     "optimize-css-assets-webpack-plugin": "^5.0.4",
     "webpack-dev-server": "^3.11.2"
   },
-  "eslintConfig":{
-    "extends":"airbnb-base"
+  "eslintConfig": {
+    "extends": "airbnb-base"
   }
 }
