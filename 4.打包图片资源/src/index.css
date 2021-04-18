@@ -1,0 +1,15 @@
+
+.div1{
+    background-image: url(../image/1.jpg);
+}
+.div2{
+    background-image: url(../image/2.jpg);
+}
+.div3{
+    background-image: url(../image/3.jpg);
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
